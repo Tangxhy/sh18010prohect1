@@ -1,0 +1,92 @@
+#Box{
+    width: 1349px;
+    margin: 0 auto;
+    
+    }
+    
+.top_box{
+        width: 1349px;
+        height: 90px;
+        img{
+            display: block;
+            float: left;
+            }
+        .language{
+            text-align: center;
+            width: 349px;
+            height: 30px;
+            float: right;
+            margin-top:60px;
+            margin-left: 1000pxpx;
+        }    
+    }
+.bottom-box{
+       
+        width: 1349px;
+        height: 483px;
+        background: url(//i1.letvimg.com/lc07_img/201607/29/15/13/operatbg.jpg) no-repeat center;
+      
+        
+    }
+
+._form{
+    line-height: 30px;
+    text-align: center;
+    margin-left: 1000px;
+    background: #FFFFFF;
+    width: 349px;
+    height: 400px;
+    p{
+        margin-top: 60px;
+        span{
+            
+        }
+        a{
+            
+        }
+    }
+    .login{
+        background: #007AFF;
+        width: 300px;
+        height: 40px;
+        margin-top: 10px;
+        margin-left: 20px;
+        a{
+            line-height: 40px;
+            color: #FFFFFF;
+        }
+    }
+    li.te{
+        width: 300px;
+        height:20px ;
+        line-height: 20px;
+        .check{
+            float: left;
+            span{
+                display: inline-block;
+                line-height: 20px;
+              
+            }
+            input{
+                width: 20px;
+                height: 20px;
+            }
+        }
+        .res{
+          float: right;  
+        }
+    }
+    li{
+        margin-top: 10px;
+        margin-left: 20px;
+        width: 300px;
+        height: 60px;
+        input{
+            width: 300px;
+            height: 40px;
+            
+        }
+        
+        
+    }
+    }

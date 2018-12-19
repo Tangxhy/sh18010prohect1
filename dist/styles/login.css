@@ -1,0 +1,63 @@
+#Box {
+  width: 1349px;
+  margin: 0 auto; }
+
+.top_box {
+  width: 1349px;
+  height: 90px; }
+  .top_box img {
+    display: block;
+    float: left; }
+  .top_box .language {
+    text-align: center;
+    width: 349px;
+    height: 30px;
+    float: right;
+    margin-top: 60px;
+    margin-left: 1000pxpx; }
+
+.bottom-box {
+  width: 1349px;
+  height: 483px;
+  background: url(//i1.letvimg.com/lc07_img/201607/29/15/13/operatbg.jpg) no-repeat center; }
+
+._form {
+  line-height: 30px;
+  text-align: center;
+  margin-left: 1000px;
+  background: #FFFFFF;
+  width: 349px;
+  height: 400px; }
+  ._form p {
+    margin-top: 60px; }
+  ._form .login {
+    background: #007AFF;
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px; }
+    ._form .login a {
+      line-height: 40px;
+      color: #FFFFFF; }
+  ._form li.te {
+    width: 300px;
+    height: 20px;
+    line-height: 20px; }
+    ._form li.te .check {
+      float: left; }
+      ._form li.te .check span {
+        display: inline-block;
+        line-height: 20px; }
+      ._form li.te .check input {
+        width: 20px;
+        height: 20px; }
+    ._form li.te .res {
+      float: right; }
+  ._form li {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 300px;
+    height: 60px; }
+    ._form li input {
+      width: 300px;
+      height: 40px; }
